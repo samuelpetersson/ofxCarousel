@@ -5,3 +5,4 @@ ofxCarousel is a generic carousel/slideshow/scroll controller for openFrameworks
 
 Hook it up to your preferred input (mouse, keyboard, leap, etc...) and then draw something using the ```position``` property or the ```positionForTile``` method which make working with tiles really simple.
 
+![Demo](demo.gif)
